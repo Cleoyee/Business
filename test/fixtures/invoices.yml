@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: MyString
+  datetime: MyString
+  company: MyString
+  tax: 9.99
+  salesperson: MyString
+
+two:
+  date: MyString
+  datetime: MyString
+  company: MyString
+  tax: 9.99
+  salesperson: MyString
