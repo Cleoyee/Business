@@ -6,7 +6,7 @@ Powerful Software
 
 ###Welcome to the repository
 
-Feel free to access read it
+Feel free to access it
 
 ###Crazy Software
 * Rapid development
