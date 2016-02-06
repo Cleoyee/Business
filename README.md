@@ -1,16 +1,16 @@
-CLEO'S BUSINESS
-===============
+CLEO'S BUSINESS- NYATI
+======================
 
-Powerful Software
------------------
+Powerful Consulating Company
+----------------------------
 
 ###Welcome to the repository
 
 Feel free to access it
 
-###Crazy Software
-* Rapid development
-+Tested
+###Amazing Consulting Company
+* Instant Answers
++Certified
 -24/7 Support
 
 ### Reasons to choose us
